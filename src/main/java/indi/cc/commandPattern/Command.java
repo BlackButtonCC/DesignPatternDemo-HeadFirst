@@ -1,4 +1,4 @@
-package indi.cc.CommandPattern;
+package indi.cc.commandPattern;
 
 /**
  * Author : CharlesChen

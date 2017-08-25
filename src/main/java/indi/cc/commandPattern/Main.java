@@ -1,4 +1,4 @@
-package indi.cc.CommandPattern;
+package indi.cc.commandPattern;
 
 /**
  * 命令模式：重点是发出请求的对象与执行请求的对象是解耦的（当然可以耦合，但是这样就不能随意储存、传递和调用动作）
