@@ -1,6 +1,7 @@
 package indi.cc.singletonPattern;
 
 /**
+ * 单例模式
  * Author : CharlesChen
  * Time : 2017-08-07 21:53
  * Version : 1.0

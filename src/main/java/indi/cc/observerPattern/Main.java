@@ -1,6 +1,7 @@
 package indi.cc.observerPattern;
 
 /**
+ * 用的是Java自带的观察者类。
  * Author : CharlesChen
  * Time : 2017-07-22 17:22
  * Version : 1.0

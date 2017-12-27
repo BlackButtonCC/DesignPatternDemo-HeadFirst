@@ -19,5 +19,6 @@ public class Main {
 
         //测试命令
         remoteControl.onButtonPushed(0);
+        remoteControl.offButtonPushed(0);
     }
 }

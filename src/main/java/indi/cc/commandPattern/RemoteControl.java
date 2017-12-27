@@ -1,6 +1,7 @@
 package indi.cc.commandPattern;
 
 /**
+ * 远程遥控器，共有7个命令键。
  * Author : CharlesChen
  * Time : 2017-08-17 19:31
  * Version : 1.0
