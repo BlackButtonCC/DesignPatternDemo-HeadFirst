@@ -4,6 +4,7 @@ import java.util.Arrays;
 
 /**
  * 模板方法模式：在一个方法中定义一个算法的骨架，而将一些步骤延迟到子类中。模板方法是的子类可以在不改变算法的结构的情况下，重新定义算法中的某些步骤。
+ * 本模式中，有两个用例，一个是用comparable接口模板，另一个是Java图形化的Swing和Awt模板。
  * Author : CharlesChen
  * Time : 2017-08-25 20:30
  * Version : 1.0

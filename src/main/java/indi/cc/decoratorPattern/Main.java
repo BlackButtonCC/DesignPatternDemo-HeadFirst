@@ -1,6 +1,7 @@
 package indi.cc.decoratorPattern;
 
 /**
+ * 测试装饰模式用例。
  * Author : CharlesChen
  * Time : 2017-07-26 22:35
  * Version : 1.0

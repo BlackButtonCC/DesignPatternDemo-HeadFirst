@@ -4,6 +4,7 @@ import javax.swing.*;
 import java.awt.*;
 
 /**
+ * 用了swing和awt的模板
  * Author : CharlesChen
  * Time : 2017-08-27 10:35
  * Version : 1.0

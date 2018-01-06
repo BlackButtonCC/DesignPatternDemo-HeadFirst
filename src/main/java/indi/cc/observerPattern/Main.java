@@ -10,7 +10,7 @@ public class Main {
     public static void main(String args[]) {
         WeatherData wd = new WeatherData();
         CurrentConditionDisplay ccd = new CurrentConditionDisplay();
-        wd.addObserver(ccd);
+        wd.addObserver(ccd);        //注册观察者
 
         //wd.deleteObserver(ccd);     //删除后没有任何布告板接收消息
         wd.setParams(37, 44, 108);

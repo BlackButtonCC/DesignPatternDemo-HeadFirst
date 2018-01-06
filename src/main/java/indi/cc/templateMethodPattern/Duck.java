@@ -1,6 +1,7 @@
 package indi.cc.templateMethodPattern;
 
 /**
+ *
  * Author : CharlesChen
  * Time : 2017-08-27 10:19
  * Version : 1.0

@@ -10,5 +10,11 @@ package indi.cc.factoryPattern;
  * Version : 1.0
  */
 public class Main {
-
+    public static void main(String args[]) {
+        PizzaStore nyStore = new NYPizzaStore();
+        
+        Pizza pizza = nyStore.orderPizza("芝士");
+        System.out.println("点了一个" + pizza.getName());
+        
+    }
 }
